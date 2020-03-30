@@ -1,6 +1,6 @@
 GraniteVille Train Crash Analysis
 
-The Graniteville train crash was an American rail disaster that occurred on January 6, 2005, in Graniteville, South Carolina.
+          The Graniteville train crash was an American rail disaster that occurred on January 6, 2005, in Graniteville, South Carolina.
 
 Datasets
           
